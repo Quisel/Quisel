@@ -87,11 +87,11 @@
 <br>
 
 <h3>Projects</h3>
-<p>Unfortunately, most of my projects are under NDA, but you can see some of my work in University / Fun projects here:</p>
+<p>Unfortunately, most of my projects are under NDA, but you can see some of my work in university / fun projects here:</p>
 <ul>
     <li><a href="https://github.com/DIY-Smarthome">DIY-Smarthome</a> - A proof of concept for a microservice based smart home</li>
     <li><a href="https://github.com/ShopConnect">ShopConnect</a> - A little project to help vulnerable people shop during the Covid19 pandemic (Created during the <a href="https://wirvsvirus.org/">Wir vs Virus Hackathon</a></li>
-    <li>(NDA) Multiple AltV Server Projects</li>
+    <li>(NDA) Multiple <a href="https://altv.mp/#/">AltV</a> Server Projects</li>
     <li>(NDA) Telemetry tracking and creation of test reports for rollercoasters</li>
     <li>(NDA) Multiple tools for data management / tracking during the Covid19 Pandemic for schools</li>
     <li>(NDA) Apps for local organisations to publish news / events</li>
