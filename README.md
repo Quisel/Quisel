@@ -91,6 +91,7 @@
 <ul>
     <li><a href="https://github.com/DIY-Smarthome">DIY-Smarthome</a> - A proof of concept for a microservice based smart home</li>
     <li><a href="https://github.com/ShopConnect">ShopConnect</a> - A little project to help vulnerable people shop during the Covid19 pandemic (Created during the <a href="https://wirvsvirus.org/">Wir vs Virus Hackathon</a></li>
+    <li>CP_Red_Netrunner_Battler (publishing soon) - A program to speed up the generation and playing of net architectures in the pen and paper "Cyberpunk Red"</li>
     <li>(NDA) Multiple <a href="https://altv.mp/#/">AltV</a> Server Projects</li>
     <li>(NDA) Telemetry tracking and creation of test reports for rollercoasters</li>
     <li>(NDA) Multiple tools for data management / tracking during the Covid19 Pandemic for schools</li>
