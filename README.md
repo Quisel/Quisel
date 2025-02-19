@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quisel</h1>
-<h3 align="center">Currently studying Computer Science at FOM Düsseldorf and working as a Software Engineer in the financial sector</h3>
+<h3 align="center">Currently working as a Software Engineer in the financial sector</h3>
 
 - 📫 How to reach me: **contact@quisel.eu** or on Discord @Quisel (formerly Quisel#9037)
 
